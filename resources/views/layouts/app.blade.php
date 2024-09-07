@@ -195,9 +195,9 @@
         <div class="container text-center">
             <p>&copy; {{ date('Y') }} Filmku. All Rights Reserved. by Umam</p>
             <p>
-                <a href="#">Facebook</a> | 
-                <a href="#">Twitter</a> | 
-                <a href="#">Instagram</a>
+                <a href="#"><i class="fab fa-facebook"></i> Facebook</a> | 
+                <a href="#"><i class="fab fa-twitter"></i> Twitter</a> | 
+                <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
             </p>
         </div>
     </footer>
