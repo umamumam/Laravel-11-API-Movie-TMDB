@@ -1,5 +1,17 @@
 ## Movies:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/aa6a6786-912f-421e-be6e-27a7079e1ca5)
+- detail movies:
+![image](https://github.com/user-attachments/assets/f9e1b6ec-d8c4-4e81-8a89-b57002827df2)
+- Recomendation Movies:
+![image](https://github.com/user-attachments/assets/3e136310-17af-466d-a8e7-d54d0d0a7af2)
+
+## TV Show:
+![image](https://github.com/user-attachments/assets/ce3e4bf6-77f1-4ef1-bb8d-6485b67804db)
+- detail tv show:
+  ![image](https://github.com/user-attachments/assets/2debd635-375f-4f57-a2b0-acbed06a35fb)
+- Recomendation TV Show:
+  ![Uploading image.png…]()
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
